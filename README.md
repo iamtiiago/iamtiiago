@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamtiiago
 - 👀 I’m interested in learning more about code.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, html, css and javascript
 - 💞️ I’m looking to collaborate on projects in order to upgrade my coding skills. 
 - 📫 How to reach me ...
 
